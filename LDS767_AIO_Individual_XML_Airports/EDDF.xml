@@ -1,6 +1,6 @@
 <ProceduresDB build='By Pedro Sousa, Wade Chafe, extracted by PROCIO 6a -Ian Mitchell'>
 	<Airport ICAOcode="EDDF">
-		<Sid Name="BIBOS5D" Runways="07L,07R">
+		<Sid Name="BIBOS5D" Runways="07L,07C,07R">
 			<Sid_Waypoint ID="1">
 				<Name>DF149</Name>
 				<Type>Normal</Type>
@@ -110,7 +110,7 @@
 				<Sp_Turn>Auto</Sp_Turn>
 			</Sid_Waypoint>
 		</Sid>
-		<Sid Name="ARPEG1D" Runways="07L,07R">
+		<Sid Name="ARPEG1D" Runways="07L,07C,07R">
 			<Sid_Waypoint ID="1">
 				<Name>DF149</Name>
 				<Type>Normal</Type>
@@ -184,7 +184,7 @@
 				<Sp_Turn>Auto</Sp_Turn>
 			</Sid_Waypoint>
 		</Sid>
-		<Sid Name="WRB9D" Runways="07L,07R">
+		<Sid Name="WRB9D" Runways="07L,07C,07R">
 			<Sid_Waypoint ID="1">
 				<Name>DF149</Name>
 				<Type>Normal</Type>
@@ -258,7 +258,7 @@
 				<Sp_Turn>Auto</Sp_Turn>
 			</Sid_Waypoint>
 		</Sid>
-		<Sid Name="HAB6D" Runways="07L,07R">
+		<Sid Name="HAB6D" Runways="07L,07C,07R">
 			<Sid_Waypoint ID="1">
 				<Name>DF149</Name>
 				<Type>Normal</Type>
@@ -296,7 +296,7 @@
 				<Sp_Turn>Auto</Sp_Turn>
 			</Sid_Waypoint>
 		</Sid>
-		<Sid Name="SOBRA1D" Runways="07L,07R">
+		<Sid Name="SOBRA1D" Runways="07L,07C,07R">
 			<Sid_Waypoint ID="1">
 				<Name>DF152</Name>
 				<Type>Normal</Type>
@@ -408,7 +408,7 @@
 				<Sp_Turn>Auto</Sp_Turn>
 			</Sid_Waypoint>
 		</Sid>
-		<Sid Name="TOBAK1D" Runways="07L,07R">
+		<Sid Name="TOBAK1D" Runways="07L,07C,07R">
 			<Sid_Waypoint ID="1">
 				<Name>DF149</Name>
 				<Type>Normal</Type>
@@ -446,7 +446,7 @@
 				<Sp_Turn>Auto</Sp_Turn>
 			</Sid_Waypoint>
 		</Sid>
-		<Sid Name="ANEKI5D" Runways="07L,07R">
+		<Sid Name="ANEKI5D" Runways="07L,07C,07R">
 			<Sid_Waypoint ID="1">
 				<Name>DF152</Name>
 				<Type>Normal</Type>
@@ -496,7 +496,7 @@
 				<Sp_Turn>Auto</Sp_Turn>
 			</Sid_Waypoint>
 		</Sid>
-		<Sid Name="NEKOM1D" Runways="07L,07R">
+		<Sid Name="NEKOM1D" Runways="07L,07C,07R">
 			<Sid_Waypoint ID="1">
 				<Name>DF152</Name>
 				<Type>Normal</Type>
@@ -546,7 +546,7 @@
 				<Sp_Turn>Auto</Sp_Turn>
 			</Sid_Waypoint>
 		</Sid>
-		<Sid Name="BIBOS5G" Runways="25L,25R">
+		<Sid Name="BIBOS5G" Runways="25L,25C,25R">
 			<Sid_Waypoint ID="1">
 				<Name>DF133</Name>
 				<Type>Normal</Type>
@@ -672,7 +672,7 @@
 				</RwyTr_Waypoint>
 			</RunwayTransition>
 		</Sid>
-		<Sid Name="ARPEG2J" Runways="25L,25R">
+		<Sid Name="ARPEG2J" Runways="25L,25C,25R">
 			<Sid_Waypoint ID="1">
 				<Name>DF233</Name>
 				<Type>Normal</Type>
@@ -786,7 +786,7 @@
 				</RwyTr_Waypoint>
 			</RunwayTransition>
 		</Sid>
-		<Sid Name="TOBAK2J" Runways="25L,25R">
+		<Sid Name="TOBAK2J" Runways="25L,25C,25R">
 			<Sid_Waypoint ID="1">
 				<Name>DF233</Name>
 				<Type>Normal</Type>
@@ -876,7 +876,7 @@
 				</RwyTr_Waypoint>
 			</RunwayTransition>
 		</Sid>
-		<Sid Name="WRB4J" Runways="25L,25R">
+		<Sid Name="WRB4J" Runways="25L,25C,25R">
 			<Sid_Waypoint ID="1">
 				<Name>DF233</Name>
 				<Type>Normal</Type>
@@ -978,7 +978,7 @@
 				</RwyTr_Waypoint>
 			</RunwayTransition>
 		</Sid>
-		<Sid Name="SOBRA1G" Runways="25L,25R">
+		<Sid Name="SOBRA1G" Runways="25L,25C,25R">
 			<Sid_Waypoint ID="1">
 				<Name>DF163</Name>
 				<Type>Normal</Type>
@@ -1079,7 +1079,7 @@
 				</RwyTr_Waypoint>
 			</RunwayTransition>
 		</Sid>
-		<Sid Name="ANEKI5G" Runways="25L,25R">
+		<Sid Name="ANEKI5G" Runways="25L,25C,25R">
 			<Sid_Waypoint ID="1">
 				<Name>DF143</Name>
 				<Type>Normal</Type>
@@ -1181,7 +1181,7 @@
 				</RwyTr_Waypoint>
 			</RunwayTransition>
 		</Sid>
-		<Sid Name="NEKOM1G" Runways="25L,25R">
+		<Sid Name="NEKOM1G" Runways="25L,25C,25R">
 			<Sid_Waypoint ID="1">
 				<Name>DF143</Name>
 				<Type>Normal</Type>
@@ -2989,7 +2989,7 @@
 				<Sp_Turn>Auto</Sp_Turn>
 			</Sid_Waypoint>
 		</Sid>
-		<Sid Name="DKB3G" Runways="25L,25R">
+		<Sid Name="DKB3G" Runways="25L,25C,25R">
 			<Sid_Waypoint ID="1">
 				<Name>DF143</Name>
 				<Type>Normal</Type>
@@ -3115,7 +3115,7 @@
 				</RwyTr_Waypoint>
 			</RunwayTransition>
 		</Sid>
-		<Sid Name="NOMBO3G" Runways="25L,25R">
+		<Sid Name="NOMBO3G" Runways="25L,25C,25R">
 			<Sid_Waypoint ID="1">
 				<Name>DF143</Name>
 				<Type>Normal</Type>
@@ -3265,7 +3265,7 @@
 				</RwyTr_Waypoint>
 			</RunwayTransition>
 		</Sid>
-		<Sid Name="RATIM1G" Runways="25L,25R">
+		<Sid Name="RATIM1G" Runways="25L,25C,25R">
 			<Sid_Waypoint ID="1">
 				<Name>DF143</Name>
 				<Type>Normal</Type>
@@ -3391,7 +3391,7 @@
 				</RwyTr_Waypoint>
 			</RunwayTransition>
 		</Sid>
-		<Sid Name="ROTEN1G" Runways="25L,25R">
+		<Sid Name="ROTEN1G" Runways="25L,25C,25R">
 			<Sid_Waypoint ID="1">
 				<Name>DF143</Name>
 				<Type>Normal</Type>
@@ -3517,7 +3517,7 @@
 				</RwyTr_Waypoint>
 			</RunwayTransition>
 		</Sid>
-		<Sid Name="SULUS3G" Runways="25L,25R">
+		<Sid Name="SULUS3G" Runways="25L,25C,25R">
 			<Sid_Waypoint ID="1">
 				<Name>DF143</Name>
 				<Type>Normal</Type>
@@ -3667,7 +3667,7 @@
 				</RwyTr_Waypoint>
 			</RunwayTransition>
 		</Sid>
-		<Sid Name="DKB5D" Runways="07L,07R">
+		<Sid Name="DKB5D" Runways="07L,07C,07R">
 			<Sid_Waypoint ID="1">
 				<Name>DF152</Name>
 				<Type>Normal</Type>
@@ -3741,7 +3741,7 @@
 				<Sp_Turn>Auto</Sp_Turn>
 			</Sid_Waypoint>
 		</Sid>
-		<Sid Name="NOMBO4D" Runways="07L,07R">
+		<Sid Name="NOMBO4D" Runways="07L,07C,07R">
 			<Sid_Waypoint ID="1">
 				<Name>DF152</Name>
 				<Type>Normal</Type>
@@ -3839,7 +3839,7 @@
 				<Sp_Turn>Auto</Sp_Turn>
 			</Sid_Waypoint>
 		</Sid>
-		<Sid Name="RATIM1D" Runways="07L,07R">
+		<Sid Name="RATIM1D" Runways="07L,07C,07R">
 			<Sid_Waypoint ID="1">
 				<Name>DF152</Name>
 				<Type>Normal</Type>
@@ -4209,7 +4209,7 @@
 				<Sp_Turn>Auto</Sp_Turn>
 			</Sid_Waypoint>
 		</Sid>
-		<Sid Name="SULUS2D" Runways="07L,07R">
+		<Sid Name="SULUS2D" Runways="07L,07C,07R">
 			<Sid_Waypoint ID="1">
 				<Name>DF149</Name>
 				<Type>Normal</Type>

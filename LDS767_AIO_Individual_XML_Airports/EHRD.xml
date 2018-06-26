@@ -1,0 +1,617 @@
+<ProceduresDB>
+    <Airport ICAOcode="EHRD">
+        <Sid Name="hold over PS" Runways="24">
+            <Sid_Waypoint ID="1">
+                <Name>EH159</Name>
+                <Type>Normal</Type>
+                <Latitude>51.948056</Latitude>
+                <Longitude>4.418056</Longitude>
+                <Flytype>Fly-over</Flytype>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>PS (ROTTERDAM NDB)</Name>
+                <Type>Normal</Type>
+                <Latitude>51.864300</Latitude>
+                <Longitude>4.210489</Longitude>
+                <Flytype>Fly-over</Flytype>
+            </Sid_Waypoint>
+			<Sid_Waypoint ID="3">
+                <Name>PS (ROTTERDAM NDB)</Name>
+				<Type>Hold</Type>
+                <Latitude>51.864300</Latitude>
+                <Longitude>4.210489</Longitude>
+				<Speed>230</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Hld_Rad_or_Inbd>Inbd</Hld_Rad_or_Inbd>
+				<Hld_Rad_value>237</Hld_Rad_value>
+				<Hld_Turn>Right</Hld_Turn>
+				<Hld_Time_or_Dist>Time</Hld_Time_or_Dist>
+				<Hld_td_value>01.0</Hld_td_value>
+			</Sid_Waypoint>
+        </Sid>
+        <!-- SIDs RWY 24 -->
+        <Sid Name="ANDIK 2B" Runways="24">
+            <Sid_Waypoint ID="1">
+                <Name>EH159</Name>
+                <Type>Normal</Type>
+                <Latitude>51.948056</Latitude>
+                <Longitude>4.418056</Longitude>
+                <Flytype>Fly-over</Flytype>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>EH163</Name>
+                <Type>Normal</Type>
+                <Latitude>52.016667</Latitude>
+                <Longitude>4.552778</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>EH150</Name>
+                <Type>Normal</Type>
+                <Latitude>52.155556</Latitude>
+                <Longitude>4.786944</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>PAM</Name>
+                <Type>Normal</Type>
+                <Latitude>52.33476100</Latitude>
+                <Longitude>5.09216100</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>ANDIK</Name>
+                <Type>Normal</Type>
+                <Latitude>52.739403</Latitude>
+                <Longitude>5.270489</Longitude>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="ARNEM 2B" Runways="24">
+            <Sid_Waypoint ID="1">
+                <Name>EH159</Name>
+                <Type>Normal</Type>
+                <Latitude>51.948056</Latitude>
+                <Longitude>4.418056</Longitude>
+                <Flytype>Fly-over</Flytype>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>EH163</Name>
+                <Type>Normal</Type>
+                <Latitude>52.016667</Latitude>
+                <Longitude>4.552778</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>EH150</Name>
+                <Type>Normal</Type>
+                <Latitude>52.155556</Latitude>
+                <Longitude>4.786944</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>IVLUT</Name>
+                <Type>Normal</Type>
+                <Latitude>52.244114</Latitude>
+                <Longitude>5.256961</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>NYKER</Name>
+                <Type>Normal</Type>
+                <Latitude>52.230389</Latitude>
+                <Longitude>5.528803</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="6">
+                <Name>ARNEM</Name>
+                <Type>Normal</Type>
+                <Latitude>52.096447</Latitude>
+                <Longitude>6.076603</Longitude>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="LUNIX 1B" Runways="24">
+            <Sid_Waypoint ID="1">
+                <Name>EH159</Name>
+                <Type>Normal</Type>
+                <Latitude>51.948056</Latitude>
+                <Longitude>4.418056</Longitude>
+                <Flytype>Fly-over</Flytype>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>EH163</Name>
+                <Type>Normal</Type>
+                <Latitude>52.016667</Latitude>
+                <Longitude>4.552778</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>EH150</Name>
+                <Type>Normal</Type>
+                <Latitude>52.155556</Latitude>
+                <Longitude>4.786944</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>IVLUT</Name>
+                <Type>Normal</Type>
+                <Latitude>52.244114</Latitude>
+                <Longitude>5.256961</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>LUNIX</Name>
+                <Type>Normal</Type>
+                <Latitude>52.109833</Latitude>
+                <Longitude>5.565403</Longitude>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="INKET 1B" Runways="24">
+            <Sid_Waypoint ID="1">
+                <Name>EH159</Name>
+                <Type>Normal</Type>
+                <Latitude>51.948056</Latitude>
+                <Longitude>4.418056</Longitude>
+                <Flytype>Fly-over</Flytype>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>EH158</Name>
+                <Type>Normal</Type>
+                <Latitude>51.961389</Latitude>
+                <Longitude>4.334167</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>9.0 RTM</Name>
+                <Type>Normal</Type>
+                <Latitude>51.953750</Latitude>
+                <Longitude>4.242326</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>PS (ROTTERDAM NDB)</Name>
+                <Type>Normal</Type>
+                <Latitude>51.864300</Latitude>
+                <Longitude>4.210489</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>EH165</Name>
+                <Type>Normal</Type>
+                <Latitude>51.766944</Latitude>
+                <Longitude>4.289722</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="6">
+                <Name>INKET</Name>
+                <Type>Normal</Type>
+                <Latitude>51.814628</Latitude>
+                <Longitude>4.771961</Longitude>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="WOODY 1B" Runways="24">
+            <Sid_Waypoint ID="1">
+                <Name>EH159</Name>
+                <Type>Normal</Type>
+                <Latitude>51.948056</Latitude>
+                <Longitude>4.418056</Longitude>
+                <Flytype>Fly-over</Flytype>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>EH158</Name>
+                <Type>Normal</Type>
+                <Latitude>51.961389</Latitude>
+                <Longitude>4.334167</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>9.0 RTM</Name>
+                <Type>Normal</Type>
+                <Latitude>51.953750</Latitude>
+                <Longitude>4.242326</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>PS (ROTTERDAM NDB)</Name>
+                <Type>Normal</Type>
+                <Latitude>51.864300</Latitude>
+                <Longitude>4.210489</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>EH165</Name>
+                <Type>Normal</Type>
+                <Latitude>51.766944</Latitude>
+                <Longitude>4.289722</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="6">
+                <Name>EH162</Name>
+                <Type>Normal</Type>
+                <Latitude>51.619444</Latitude>
+                <Longitude>4.409167</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="7">
+                <Name>WOODY</Name>
+                <Type>Normal</Type>
+                <Latitude>51.405661</Latitude>
+                <Longitude>4.366481</Longitude>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="COSTA 1B" Runways="24">
+            <Sid_Waypoint ID="1">
+                <Name>EH159</Name>
+                <Type>Normal</Type>
+                <Latitude>51.948056</Latitude>
+                <Longitude>4.418056</Longitude>
+                <Flytype>Fly-over</Flytype>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>EH158</Name>
+                <Type>Normal</Type>
+                <Latitude>51.961389</Latitude>
+                <Longitude>4.334167</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>EH156</Name>
+                <Type>Normal</Type>
+                <Latitude>51.949167</Latitude>
+                <Longitude>4.187222</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>COA</Name>
+                <Type>Normal</Type>
+                <Latitude>51.34805600</Latitude>
+                <Longitude>3.35527800</Longitude>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="REFSO 1B" Runways="24">
+            <Sid_Waypoint ID="1">
+                <Name>EH159</Name>
+                <Type>Normal</Type>
+                <Latitude>51.948056</Latitude>
+                <Longitude>4.418056</Longitude>
+                <Flytype>Fly-over</Flytype>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>EH158</Name>
+                <Type>Normal</Type>
+                <Latitude>51.961389</Latitude>
+                <Longitude>4.334167</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>EH156</Name>
+                <Type>Normal</Type>
+                <Latitude>51.949167</Latitude>
+                <Longitude>4.187222</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>EH164</Name>
+                <Type>Normal</Type>
+                <Latitude>51.945556</Latitude>
+                <Longitude>4.144167</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>SOMEL</Name>
+                <Type>Normal</Type>
+                <Latitude>51.940708</Latitude>
+                <Longitude>4.089119</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="6">
+                <Name>REFSO</Name>
+                <Type>Normal</Type>
+                <Latitude>51.809567</Latitude>
+                <Longitude>2.666908</Longitude>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="TULIP 1B" Runways="24">
+            <Sid_Waypoint ID="1">
+                <Name>EH159</Name>
+                <Type>Normal</Type>
+                <Latitude>51.948056</Latitude>
+                <Longitude>4.418056</Longitude>
+                <Flytype>Fly-over</Flytype>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>EH158</Name>
+                <Type>Normal</Type>
+                <Latitude>51.961389</Latitude>
+                <Longitude>4.334167</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>EH156</Name>
+                <Type>Normal</Type>
+                <Latitude>51.949167</Latitude>
+                <Longitude>4.187222</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>EH164</Name>
+                <Type>Normal</Type>
+                <Latitude>51.945556</Latitude>
+                <Longitude>4.144167</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>SOMEL</Name>
+                <Type>Normal</Type>
+                <Latitude>51.940708</Latitude>
+                <Longitude>4.089119</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="6">
+                <Name>TULIP</Name>
+                <Type>Normal</Type>
+                <Latitude>52.367750</Latitude>
+                <Longitude>3.857308</Longitude>
+            </Sid_Waypoint>
+        </Sid>
+        <!-- SIDs RWY 06 -->
+        <Sid Name="ANDIK 2A" Runways="06">
+            <Sid_Waypoint ID="1">
+                <Name>RTM</Name>
+                <Type>Normal</Type>
+                <Latitude>51.97369700</Latitude>
+                <Longitude>4.48096900</Longitude>
+                <Flytype>Fly-over</Flytype>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>EH153</Name>
+                <Type>Normal</Type>
+                <Latitude>52.002222</Latitude>
+                <Longitude>4.574167</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>EH151</Name>
+                <Type>Normal</Type>
+                <Latitude>52.050000</Latitude>
+                <Longitude>4.608889</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>EH150</Name>
+                <Type>Normal</Type>
+                <Latitude>52.155556</Latitude>
+                <Longitude>4.786944</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>PAM</Name>
+                <Type>Normal</Type>
+                <Latitude>52.33476100</Latitude>
+                <Longitude>5.09216100</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="6">
+                <Name>ANDIK</Name>
+                <Type>Normal</Type>
+                <Latitude>52.739403</Latitude>
+                <Longitude>5.270489</Longitude>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="ARNEM 2A" Runways="06">
+            <Sid_Waypoint ID="1">
+                <Name>RTM</Name>
+                <Type>Normal</Type>
+                <Latitude>51.97369700</Latitude>
+                <Longitude>4.48096900</Longitude>
+                <Flytype>Fly-over</Flytype>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>EH153</Name>
+                <Type>Normal</Type>
+                <Latitude>52.002222</Latitude>
+                <Longitude>4.574167</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>EH151</Name>
+                <Type>Normal</Type>
+                <Latitude>52.050000</Latitude>
+                <Longitude>4.608889</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>EH150</Name>
+                <Type>Normal</Type>
+                <Latitude>52.155556</Latitude>
+                <Longitude>4.786944</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>IVLUT</Name>
+                <Type>Normal</Type>
+                <Latitude>52.244114</Latitude>
+                <Longitude>5.256961</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="6">
+                <Name>NYKER</Name>
+                <Type>Normal</Type>
+                <Latitude>52.230389</Latitude>
+                <Longitude>5.528803</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="7">
+                <Name>ARNEM</Name>
+                <Type>Normal</Type>
+                <Latitude>52.096447</Latitude>
+                <Longitude>6.076603</Longitude>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="LUNIX 1A" Runways="06">
+            <Sid_Waypoint ID="1">
+                <Name>RTM</Name>
+                <Type>Normal</Type>
+                <Latitude>51.97369700</Latitude>
+                <Longitude>4.48096900</Longitude>
+                <Flytype>Fly-over</Flytype>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>EH153</Name>
+                <Type>Normal</Type>
+                <Latitude>52.002222</Latitude>
+                <Longitude>4.574167</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>EH151</Name>
+                <Type>Normal</Type>
+                <Latitude>52.050000</Latitude>
+                <Longitude>4.608889</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>EH150</Name>
+                <Type>Normal</Type>
+                <Latitude>52.155556</Latitude>
+                <Longitude>4.786944</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>IVLUT</Name>
+                <Type>Normal</Type>
+                <Latitude>52.244114</Latitude>
+                <Longitude>5.256961</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="6">
+                <Name>LUNIX</Name>
+                <Type>Normal</Type>
+                <Latitude>52.109833</Latitude>
+                <Longitude>5.565403</Longitude>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="INKET 1A" Runways="06">
+            <Sid_Waypoint ID="1">
+                <Name>RTM</Name>
+                <Type>Normal</Type>
+                <Latitude>51.97369700</Latitude>
+                <Longitude>4.48096900</Longitude>
+                <Flytype>Fly-over</Flytype>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>EH153</Name>
+                <Type>Normal</Type>
+                <Latitude>52.002222</Latitude>
+                <Longitude>4.574167</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>EH157</Name>
+                <Type>Normal</Type>
+                <Latitude>52.013333</Latitude>
+                <Longitude>4.610000</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>EH161</Name>
+                <Type>Normal</Type>
+                <Latitude>51.924444</Latitude>
+                <Longitude>4.682778</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>INKET</Name>
+                <Type>Normal</Type>
+                <Latitude>51.814628</Latitude>
+                <Longitude>4.771961</Longitude>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="WOODY 1A" Runways="06">
+            <Sid_Waypoint ID="1">
+                <Name>RTM</Name>
+                <Type>Normal</Type>
+                <Latitude>51.97369700</Latitude>
+                <Longitude>4.48096900</Longitude>
+                <Flytype>Fly-over</Flytype>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>EH153</Name>
+                <Type>Normal</Type>
+                <Latitude>52.002222</Latitude>
+                <Longitude>4.574167</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>EH157</Name>
+                <Type>Normal</Type>
+                <Latitude>52.013333</Latitude>
+                <Longitude>4.610000</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>EH161</Name>
+                <Type>Normal</Type>
+                <Latitude>51.924444</Latitude>
+                <Longitude>4.682778</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>WOODY</Name>
+                <Type>Normal</Type>
+                <Latitude>51.405661</Latitude>
+                <Longitude>4.366481</Longitude>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="COSTA 1A" Runways="06">
+            <Sid_Waypoint ID="2">
+                <Name>RTM</Name>
+                <Type>Normal</Type>
+                <Latitude>51.97369700</Latitude>
+                <Longitude>4.48096900</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>EH153</Name>
+                <Type>Normal</Type>
+                <Latitude>52.002222</Latitude>
+                <Longitude>4.574167</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>EH157</Name>
+                <Type>Normal</Type>
+                <Latitude>52.013333</Latitude>
+                <Longitude>4.610000</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>EH161</Name>
+                <Type>Normal</Type>
+                <Latitude>51.924444</Latitude>
+                <Longitude>4.682778</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>COA</Name>
+                <Type>Normal</Type>
+                <Latitude>51.34805600</Latitude>
+                <Longitude>3.35527800</Longitude>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="REFSO 1A" Runways="06">
+            <Sid_Waypoint ID="1">
+                <Name>RTM</Name>
+                <Type>Normal</Type>
+                <Latitude>51.97369700</Latitude>
+                <Longitude>4.48096900</Longitude>
+                <Flytype>Fly-over</Flytype>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>EH181</Name>
+                <Type>Normal</Type>
+                <Latitude>52.165278</Latitude>
+                <Longitude>4.127500</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>EH186</Name>
+                <Type>Normal</Type>
+                <Latitude>52.447222</Latitude>
+                <Longitude>4.406944</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>SOMEL</Name>
+                <Type>Normal</Type>
+                <Latitude>51.940708</Latitude>
+                <Longitude>4.089119</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>REFSO</Name>
+                <Type>Normal</Type>
+                <Latitude>51.809567</Latitude>
+                <Longitude>2.666908</Longitude>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="TULIP 1A" Runways="06">
+            <Sid_Waypoint ID="2">
+                <Name>RTM</Name>
+                <Type>Normal</Type>
+                <Latitude>51.97369700</Latitude>
+                <Longitude>4.48096900</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>EH181</Name>
+                <Type>Normal</Type>
+                <Latitude>52.165278</Latitude>
+                <Longitude>4.127500</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>EH186</Name>
+                <Type>Normal</Type>
+                <Latitude>52.447222</Latitude>
+                <Longitude>4.406944</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>SOMEL</Name>
+                <Type>Normal</Type>
+                <Latitude>51.940708</Latitude>
+                <Longitude>4.089119</Longitude>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>TULIP</Name>
+                <Type>Normal</Type>
+                <Latitude>52.367750</Latitude>
+                <Longitude>3.857308</Longitude>
+            </Sid_Waypoint>
+        </Sid>
+    </Airport>
+</ProceduresDB>
