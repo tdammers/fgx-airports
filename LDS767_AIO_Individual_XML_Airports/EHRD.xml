@@ -1,36 +1,5 @@
 <ProceduresDB>
     <Airport ICAOcode="EHRD">
-        <Sid Name="hold over PS" Runways="24">
-            <Sid_Waypoint ID="1">
-                <Name>EH159</Name>
-                <Type>Normal</Type>
-                <Latitude>51.948056</Latitude>
-                <Longitude>4.418056</Longitude>
-                <Flytype>Fly-over</Flytype>
-            </Sid_Waypoint>
-            <Sid_Waypoint ID="2">
-                <Name>PS (ROTTERDAM NDB)</Name>
-                <Type>Normal</Type>
-                <Latitude>51.864300</Latitude>
-                <Longitude>4.210489</Longitude>
-                <Flytype>Fly-over</Flytype>
-            </Sid_Waypoint>
-			<Sid_Waypoint ID="3">
-                <Name>PS (ROTTERDAM NDB)</Name>
-				<Type>Hold</Type>
-                <Latitude>51.864300</Latitude>
-                <Longitude>4.210489</Longitude>
-				<Speed>230</Speed>
-				<Altitude>5000</Altitude>
-				<AltitudeCons>0</AltitudeCons>
-				<AltitudeRestriction>at</AltitudeRestriction>
-				<Hld_Rad_or_Inbd>Inbd</Hld_Rad_or_Inbd>
-				<Hld_Rad_value>237</Hld_Rad_value>
-				<Hld_Turn>Right</Hld_Turn>
-				<Hld_Time_or_Dist>Time</Hld_Time_or_Dist>
-				<Hld_td_value>01.0</Hld_td_value>
-			</Sid_Waypoint>
-        </Sid>
         <!-- SIDs RWY 24 -->
         <Sid Name="ANDIK 2B" Runways="24">
             <Sid_Waypoint ID="1">
@@ -613,5 +582,407 @@
                 <Longitude>3.857308</Longitude>
             </Sid_Waypoint>
         </Sid>
+        <!-- STARs -->
+		<Star Name="EELDE2R">
+            <Star_Waypoint ID="1">
+                <Name>EEL</Name>
+                <Type>Normal</Type>
+                <Latitude>53.163906</Latitude>
+                <Longitude>6.666675</Longitude>
+            </Star_Waypoint>
+            <Star_Waypoint ID="2">
+                <Name>ENKOS</Name>
+                <Type>Normal</Type>
+                <Latitude>52.678128</Latitude>
+                <Longitude>5.243264</Longitude>
+            </Star_Waypoint>
+            <Star_Waypoint ID="3">
+                <Name>PAM</Name>
+                <Type>Normal</Type>
+                <Latitude>52.334761</Latitude>
+                <Longitude>5.092161</Longitude>
+            </Star_Waypoint>
+            <Star_Waypoint ID="4">
+                <Name>ROT</Name>
+                <Type>Normal</Type>
+                <Latitude>51.897586</Latitude>
+                <Longitude>4.554347</Longitude>
+            </Star_Waypoint>
+        </Star>
+        <Star Name="REKKEN2R">
+            <Star_Waypoint ID="1">
+                <Name>RKN</Name>
+                <Type>Normal</Type>
+                <Latitude>52.133197</Latitude>
+                <Longitude>6.763878</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+            <Star_Waypoint ID="2">
+                <Name>TENLI</Name>
+                <Type>Normal</Type>
+                <Latitude>52.246469</Latitude>
+                <Longitude>6.250142</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+            <Star_Waypoint ID="3">
+                <Name>FLEVO</Name>
+                <Type>Normal</Type>
+                <Latitude>52.38535</Latitude>
+                <Longitude>5.602169</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+            <Star_Waypoint ID="4">
+                <Name>PAM</Name>
+                <Type>Normal</Type>
+                <Latitude>52.334761</Latitude>
+                <Longitude>5.092161</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+            <Star_Waypoint ID="5">
+                <Name>ROT</Name>
+                <Type>Normal</Type>
+                <Latitude>51.897586</Latitude>
+                <Longitude>4.554347</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+        </Star>
+        <Star Name="SONEB2R">
+            <Star_Waypoint ID="1">
+                <Name>SONEB</Name>
+                <Type>Normal</Type>
+                <Latitude>52.023611</Latitude>
+                <Longitude>6.764167</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+            <Star_Waypoint ID="2">
+                <Name>TENLI</Name>
+                <Type>Normal</Type>
+                <Latitude>52.246469</Latitude>
+                <Longitude>6.250142</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+            <Star_Waypoint ID="3">
+                <Name>FLEVO</Name>
+                <Type>Normal</Type>
+                <Latitude>52.38535</Latitude>
+                <Longitude>5.602169</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+            <Star_Waypoint ID="4">
+                <Name>PAM</Name>
+                <Type>Normal</Type>
+                <Latitude>52.334761</Latitude>
+                <Longitude>5.092161</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+            <Star_Waypoint ID="5">
+                <Name>ROT</Name>
+                <Type>Normal</Type>
+                <Latitude>51.897586</Latitude>
+                <Longitude>4.554347</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+        </Star>
+        <Star Name="INKET1R">
+            <Star_Waypoint ID="1">
+                <Name>INKET</Name>
+                <Type>Normal</Type>
+                <Latitude>51.814628</Latitude>
+                <Longitude>4.771961</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+            <Star_Waypoint ID="2">
+                <Name>ROT</Name>
+                <Type>Normal</Type>
+                <Latitude>51.897586</Latitude>
+                <Longitude>4.554347</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+        </Star>
+        <Star Name="COSTA1R">
+            <Star_Waypoint ID="1">
+                <Name>COA</Name>
+                <Type>Normal</Type>
+                <Latitude>51.348056</Latitude>
+                <Longitude>3.355278</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+            <Star_Waypoint ID="2">
+                <Name>STD</Name>
+                <Type>Normal</Type>
+                <Latitude>51.741325</Latitude>
+                <Longitude>4.243486</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+            <Star_Waypoint ID="3">
+                <Name>ROT</Name>
+                <Type>Normal</Type>
+                <Latitude>51.897586</Latitude>
+                <Longitude>4.554347</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+        </Star>
+        <Star Name="HELEN2R">
+            <Star_Waypoint ID="1">
+                <Name>HELEN</Name>
+                <Type>Normal</Type>
+                <Latitude>-12.638219</Latitude>
+                <Longitude>131.551744</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+            <Star_Waypoint ID="2">
+                <Name>TOLEN</Name>
+                <Type>Normal</Type>
+                <Latitude>51.530314</Latitude>
+                <Longitude>4.086594</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+            <Star_Waypoint ID="3">
+                <Name>STD</Name>
+                <Type>Normal</Type>
+                <Latitude>51.741325</Latitude>
+                <Longitude>4.243486</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+            <Star_Waypoint ID="4">
+                <Name>ROT</Name>
+                <Type>Normal</Type>
+                <Latitude>51.897586</Latitude>
+                <Longitude>4.554347</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+        </Star>
+        <Star Name="NICKY2R">
+            <Star_Waypoint ID="1">
+                <Name>NIK</Name>
+                <Type>Normal</Type>
+                <Latitude>51.162498</Latitude>
+                <Longitude>4.189167</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+            <Star_Waypoint ID="2">
+                <Name>STD</Name>
+                <Type>Normal</Type>
+                <Latitude>51.741325</Latitude>
+                <Longitude>4.243486</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+            <Star_Waypoint ID="3">
+                <Name>ROT</Name>
+                <Type>Normal</Type>
+                <Latitude>51.897586</Latitude>
+                <Longitude>4.554347</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+        </Star>
+        <Star Name="PUTTY2R">
+            <Star_Waypoint ID="1">
+                <Name>PUTTY</Name>
+                <Type>Normal</Type>
+                <Latitude>51.365853</Latitude>
+                <Longitude>4.337614</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+            <Star_Waypoint ID="2">
+                <Name>ROT</Name>
+                <Type>Normal</Type>
+                <Latitude>51.897586</Latitude>
+                <Longitude>4.554347</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+        </Star>
+
+        <Star Name="TOPPA2R">
+            <Star_Waypoint ID="1">
+                <Name>TOPPA</Name>
+                <Type>Normal</Type>
+                <Latitude>53.402592</Latitude>
+                <Longitude>3.561467</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+            <Star_Waypoint ID="2">
+                <Name>MASOS</Name>
+                <Type>Normal</Type>
+                <Latitude>51.799333</Latitude>
+                <Longitude>3.596469</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+        </Star>
+        <Star Name="MOLIX2R">
+            <Star_Waypoint ID="1">
+                <Name>MOLIX</Name>
+                <Type>Normal</Type>
+                <Latitude>52.822</Latitude>
+                <Longitude>3.068669</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+            <Star_Waypoint ID="2">
+                <Name>MASOS</Name>
+                <Type>Normal</Type>
+                <Latitude>51.799333</Latitude>
+                <Longitude>3.596469</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+        </Star>
+        <Star Name="LAMSO2R">
+            <Star_Waypoint ID="1">
+                <Name>LAMSO</Name>
+                <Type>Normal</Type>
+                <Latitude>52.732897</Latitude>
+                <Longitude>2.994356</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+            <Star_Waypoint ID="2">
+                <Name>MASOS</Name>
+                <Type>Normal</Type>
+                <Latitude>51.799333</Latitude>
+                <Longitude>3.596469</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+        </Star>
+        <Star Name="REDFA2R">
+            <Star_Waypoint ID="1">
+                <Name>REDFA</Name>
+                <Type>Normal</Type>
+                <Latitude>52.114586</Latitude>
+                <Longitude>2.487947</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+            <Star_Waypoint ID="2">
+                <Name>MASOS</Name>
+                <Type>Normal</Type>
+                <Latitude>51.799333</Latitude>
+                <Longitude>3.596469</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+        </Star>
     </Airport>
 </ProceduresDB>
