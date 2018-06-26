@@ -1,0 +1,123 @@
+<ProceduresDB build='Tobias Dammers'>
+	<Airport ICAOcode="EDLN">
+        <Star Name="NOR4J">
+            <Star_Waypoint ID="1">
+                <Name>NOR</Name>
+                <Type>Normal</Type>
+                <Latitude>50.840667</Latitude>
+                <Longitude>6.694167</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+            <Star_Waypoint ID="2">
+                <Name>GESBI</Name>
+                <Type>Normal</Type>
+                <Latitude>51.06</Latitude>
+                <Longitude>6.32</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+            <Star_Waypoint ID="3">
+                <Name>MHV</Name>
+                <Type>Normal</Type>
+                <Latitude>51.2373</Latitude>
+                <Longitude>6.490244</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+        </Star>
+        <Star Name="GESBI2J">
+            <Star_Waypoint ID="1">
+                <Name>GESBI</Name>
+                <Type>Normal</Type>
+                <Latitude>51.06</Latitude>
+                <Longitude>6.32</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+            <Star_Waypoint ID="2">
+                <Name>MHV</Name>
+                <Type>Normal</Type>
+                <Latitude>51.2373</Latitude>
+                <Longitude>6.490244</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+        </Star>
+        <Star Name="LMA2J">
+            <Star_Waypoint ID="1">
+                <Name>LMA</Name>
+                <Type>Normal</Type>
+                <Latitude>51.370833</Latitude>
+                <Longitude>6.395</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+            <Star_Waypoint ID="2">
+                <Name>MHV</Name>
+                <Type>Normal</Type>
+                <Latitude>51.2373</Latitude>
+                <Longitude>6.490244</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+        </Star>
+        <Star Name="VEBAK2J">
+            <Star_Waypoint ID="1">
+                <Name>VEBAK</Name>
+                <Type>Normal</Type>
+                <Latitude>51.458056</Latitude>
+                <Longitude>6.348056</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+            <Star_Waypoint ID="2">
+                <Name>LMA</Name>
+                <Type>Normal</Type>
+                <Latitude>51.370833</Latitude>
+                <Longitude>6.395</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+            <Star_Waypoint ID="3">
+                <Name>MHV</Name>
+                <Type>Normal</Type>
+                <Latitude>51.2373</Latitude>
+                <Longitude>6.490244</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
+            </Star_Waypoint>
+        </Star>
+    </Airport>
+</ProceduresDB>
+
