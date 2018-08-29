@@ -10,6 +10,6 @@ do
     DST="$HOME/.fgfs/TerraSync/Airports/$DIR1/$DIR2/$DIR3/$AIRPORT.procedures.xml"
     SRC="$BASEDIR/$AIRPORT.xml"
     echo "$SRC -> $DST"
-    rm "$DST"
+    rm -f "$DST"
     cp "$SRC" "$DST"
 done
