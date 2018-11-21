@@ -521,33 +521,57 @@
             <Sid_Waypoint ID="1">
                 <Name>RTM</Name>
                 <Type>Normal</Type>
-                <Latitude>51.97369700</Latitude>
-                <Longitude>4.48096900</Longitude>
+                <Latitude>51.973697</Latitude>
+                <Longitude>4.480969</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
                 <Flytype>Fly-over</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
             </Sid_Waypoint>
             <Sid_Waypoint ID="2">
                 <Name>EH181</Name>
                 <Type>Normal</Type>
-                <Latitude>52.165278</Latitude>
-                <Longitude>4.127500</Longitude>
+                <Latitude>51.97823088178741</Latitude>
+                <Longitude>4.495377542381471</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-over</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
             </Sid_Waypoint>
             <Sid_Waypoint ID="3">
                 <Name>EH186</Name>
                 <Type>Normal</Type>
-                <Latitude>52.447222</Latitude>
-                <Longitude>4.406944</Longitude>
+                <Latitude>51.96280955654728</Latitude>
+                <Longitude>4.3555498049381915</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
             </Sid_Waypoint>
             <Sid_Waypoint ID="4">
                 <Name>SOMEL</Name>
                 <Type>Normal</Type>
                 <Latitude>51.940708</Latitude>
                 <Longitude>4.089119</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
             </Sid_Waypoint>
             <Sid_Waypoint ID="5">
                 <Name>REFSO</Name>
                 <Type>Normal</Type>
                 <Latitude>51.809567</Latitude>
                 <Longitude>2.666908</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
             </Sid_Waypoint>
         </Sid>
         <Sid Name="TULIP 1A" Runways="06">
@@ -560,20 +584,35 @@
             <Sid_Waypoint ID="2">
                 <Name>EH181</Name>
                 <Type>Normal</Type>
-                <Latitude>52.165278</Latitude>
-                <Longitude>4.127500</Longitude>
+                <Latitude>51.97823088178741</Latitude>
+                <Longitude>4.495377542381471</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-over</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
             </Sid_Waypoint>
             <Sid_Waypoint ID="3">
                 <Name>EH186</Name>
                 <Type>Normal</Type>
-                <Latitude>52.447222</Latitude>
-                <Longitude>4.406944</Longitude>
+                <Latitude>51.96280955654728</Latitude>
+                <Longitude>4.3555498049381915</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
             </Sid_Waypoint>
             <Sid_Waypoint ID="4">
                 <Name>SOMEL</Name>
                 <Type>Normal</Type>
                 <Latitude>51.940708</Latitude>
                 <Longitude>4.089119</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <Flytype>Fly-By</Flytype>
+                <Sp_Turn>Auto</Sp_Turn>
             </Sid_Waypoint>
             <Sid_Waypoint ID="5">
                 <Name>TULIP</Name>

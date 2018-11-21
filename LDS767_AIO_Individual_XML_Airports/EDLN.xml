@@ -2,44 +2,33 @@
 	<Airport ICAOcode="EDLN">
         <!-- SIDs -->
         <Sid Name="ABODU1A" Runways="13">
-            <Sid_Waypoint ID="1">
-                <Name>EDLN</Name>
+            <Sid_Waypoint ID="2">
+                <Name>3.5MHD128</Name>
                 <Type>Normal</Type>
-                <Latitude>51.2303555</Latitude>
-                <Longitude>6.504496</Longitude>
+                <Latitude>51.199037387478995</Latitude>
+                <Longitude>6.565074351465215</Longitude>
                 <Speed>0</Speed>
                 <Altitude>0</Altitude>
                 <AltitudeCons>0</AltitudeCons>
                 <Flytype>Fly-By</Flytype>
                 <Sp_Turn>Auto</Sp_Turn>
             </Sid_Waypoint>
-            <Sid_Waypoint ID="2">
-                <Name>3.5MHD</Name>
-                <Type>Normal</Type>
-                <Latitude>51.234908</Latitude>
-                <Longitude>6.491969</Longitude>
-                <Speed>0</Speed>
-                <Altitude>0</Altitude>
-                <AltitudeCons>0</AltitudeCons>
-                <Flytype>Fly-Over</Flytype>
-                <Sp_Turn>Auto</Sp_Turn>
-            </Sid_Waypoint>
             <Sid_Waypoint ID="3">
                 <Name>13.0DUS225</Name>
                 <Type>Normal</Type>
-                <Latitude>51.283189</Latitude>
-                <Longitude>6.753725</Longitude>
+                <Latitude>51.13016558333002</Latitude>
+                <Longitude>6.5101229188352425</Longitude>
                 <Speed>0</Speed>
                 <Altitude>0</Altitude>
                 <AltitudeCons>0</AltitudeCons>
-                <Flytype>Fly-Over</Flytype>
+                <Flytype>Fly-By</Flytype>
                 <Sp_Turn>Auto</Sp_Turn>
             </Sid_Waypoint>
             <Sid_Waypoint ID="4">
-                <Name>9.0LMA196</Name>
+                <Name>13.0DUS255</Name>
                 <Type>Normal</Type>
-                <Latitude>51.370833</Latitude>
-                <Longitude>6.395</Longitude>
+                <Latitude>51.22717900997391</Latitude>
+                <Longitude>6.420608689707153</Longitude>
                 <Speed>0</Speed>
                 <Altitude>0</Altitude>
                 <AltitudeCons>0</AltitudeCons>
@@ -54,60 +43,49 @@
                 <Speed>0</Speed>
                 <Altitude>0</Altitude>
                 <AltitudeCons>0</AltitudeCons>
-                <Flytype>Fly-Over</Flytype>
+                <Flytype>Fly-By</Flytype>
                 <Sp_Turn>Auto</Sp_Turn>
             </Sid_Waypoint>
             <Sid_Waypoint ID="6">
                 <Name>ABODU</Name>
                 <Type>Normal</Type>
-                <Latitude>51.370833</Latitude>
-                <Longitude>6.395</Longitude>
+                <Latitude>51.51484412386933</Latitude>
+                <Longitude>6.461079024864043</Longitude>
                 <Speed>0</Speed>
                 <Altitude>0</Altitude>
                 <AltitudeCons>0</AltitudeCons>
-                <Flytype>Fly-Over</Flytype>
+                <Flytype>Fly-By</Flytype>
                 <Sp_Turn>Auto</Sp_Turn>
             </Sid_Waypoint>
         </Sid>
         <Sid Name="SONEB2A" Runways="13">
-            <Sid_Waypoint ID="1">
-                <Name>EDLN</Name>
+            <Sid_Waypoint ID="2">
+                <Name>3.5MHD128</Name>
                 <Type>Normal</Type>
-                <Latitude>51.2303555</Latitude>
-                <Longitude>6.504496</Longitude>
+                <Latitude>51.199037387478995</Latitude>
+                <Longitude>6.565074351465215</Longitude>
                 <Speed>0</Speed>
                 <Altitude>0</Altitude>
                 <AltitudeCons>0</AltitudeCons>
                 <Flytype>Fly-By</Flytype>
                 <Sp_Turn>Auto</Sp_Turn>
             </Sid_Waypoint>
-            <Sid_Waypoint ID="2">
-                <Name>3.5MHD</Name>
-                <Type>Normal</Type>
-                <Latitude>51.234908</Latitude>
-                <Longitude>6.491969</Longitude>
-                <Speed>0</Speed>
-                <Altitude>0</Altitude>
-                <AltitudeCons>0</AltitudeCons>
-                <Flytype>Fly-Over</Flytype>
-                <Sp_Turn>Auto</Sp_Turn>
-            </Sid_Waypoint>
             <Sid_Waypoint ID="3">
                 <Name>13.0DUS225</Name>
                 <Type>Normal</Type>
-                <Latitude>51.283189</Latitude>
-                <Longitude>6.753725</Longitude>
+                <Latitude>51.13016558333002</Latitude>
+                <Longitude>6.5101229188352425</Longitude>
                 <Speed>0</Speed>
                 <Altitude>0</Altitude>
                 <AltitudeCons>0</AltitudeCons>
-                <Flytype>Fly-Over</Flytype>
+                <Flytype>Fly-By</Flytype>
                 <Sp_Turn>Auto</Sp_Turn>
             </Sid_Waypoint>
             <Sid_Waypoint ID="4">
-                <Name>9.0LMA196</Name>
+                <Name>13.0DUS255</Name>
                 <Type>Normal</Type>
-                <Latitude>51.370833</Latitude>
-                <Longitude>6.395</Longitude>
+                <Latitude>51.22717900997391</Latitude>
+                <Longitude>6.420608689707153</Longitude>
                 <Speed>0</Speed>
                 <Altitude>0</Altitude>
                 <AltitudeCons>0</AltitudeCons>
@@ -122,18 +100,18 @@
                 <Speed>0</Speed>
                 <Altitude>0</Altitude>
                 <AltitudeCons>0</AltitudeCons>
-                <Flytype>Fly-Over</Flytype>
+                <Flytype>Fly-By</Flytype>
                 <Sp_Turn>Auto</Sp_Turn>
             </Sid_Waypoint>
             <Sid_Waypoint ID="6">
                 <Name>ABODU</Name>
                 <Type>Normal</Type>
-                <Latitude>51.370833</Latitude>
-                <Longitude>6.395</Longitude>
+                <Latitude>51.51484412386933</Latitude>
+                <Longitude>6.461079024864043</Longitude>
                 <Speed>0</Speed>
                 <Altitude>0</Altitude>
                 <AltitudeCons>0</AltitudeCons>
-                <Flytype>Fly-Over</Flytype>
+                <Flytype>Fly-By</Flytype>
                 <Sp_Turn>Auto</Sp_Turn>
             </Sid_Waypoint>
             <Sid_Waypoint ID="7">
@@ -149,17 +127,6 @@
             </Sid_Waypoint>
         </Sid>
         <Sid Name="COL2A" Runways="13">
-            <Sid_Waypoint ID="1">
-                <Name>EDLN</Name>
-                <Type>Normal</Type>
-                <Latitude>51.2303555</Latitude>
-                <Longitude>6.504496</Longitude>
-                <Speed>0</Speed>
-                <Altitude>0</Altitude>
-                <AltitudeCons>0</AltitudeCons>
-                <Flytype>Fly-By</Flytype>
-                <Sp_Turn>Auto</Sp_Turn>
-            </Sid_Waypoint>
             <Sid_Waypoint ID="2">
                 <Name>3.5MHD128</Name>
                 <Type>Normal</Type>
@@ -228,19 +195,7 @@
             </Sid_Waypoint>
         </Sid>
 
-        <!--  Sid GMH7Z   13 EDLN 3.5MHD128@EDLN 9.3MHD128@EDLN 39GMH266@EDLN 31GMH266@EDLN 18.6GMH266@EDLN 10GMH266@EDLN DEGOM@EDLN GMH@EDLN -->
         <Sid Name="GMH7Z" Runways="13">
-            <Sid_Waypoint ID="1">
-                <Name>EDLN</Name>
-                <Type>Normal</Type>
-                <Latitude>51.2303555</Latitude>
-                <Longitude>6.504496</Longitude>
-                <Speed>0</Speed>
-                <Altitude>0</Altitude>
-                <AltitudeCons>0</AltitudeCons>
-                <Flytype>Fly-By</Flytype>
-                <Sp_Turn>Auto</Sp_Turn>
-            </Sid_Waypoint>
             <Sid_Waypoint ID="2">
                 <Name>3.5MHD128</Name>
                 <Type>Normal</Type>
@@ -332,17 +287,6 @@
         </Sid>
         <!--  Sid KUMIK2A 13 EDLN 3.5MHD128@EDLN 9.3MHD128@EDLN 39GMH266@EDLN 31GMH266@EDLN 18.6GMH266@EDLN 10GMH266@EDLN DEGOM@EDLN KUMIK@EDLN -->
         <Sid Name="KUMIK2A" Runways="13">
-            <Sid_Waypoint ID="1">
-                <Name>EDLN</Name>
-                <Type>Normal</Type>
-                <Latitude>51.2303555</Latitude>
-                <Longitude>6.504496</Longitude>
-                <Speed>0</Speed>
-                <Altitude>0</Altitude>
-                <AltitudeCons>0</AltitudeCons>
-                <Flytype>Fly-Over</Flytype>
-                <Sp_Turn>Auto</Sp_Turn>
-            </Sid_Waypoint>
             <Sid_Waypoint ID="2">
                 <Name>3.5MHD128</Name>
                 <Type>Normal</Type>
@@ -434,17 +378,6 @@
         </Sid>
         <!--  Sid NUDGO3A 13 EDLN 3.5MHD128@EDLN 9.3MHD128@EDLN 39GMH266@EDLN 31GMH266@EDLN 18.6GMH266@EDLN MAMIB@EDLN KULIX@EDLN NUDGO@EDLN -->
         <Sid Name="NUDGO3A" Runways="13">
-            <Sid_Waypoint ID="1">
-                <Name>EDLN</Name>
-                <Type>Normal</Type>
-                <Latitude>51.2303555</Latitude>
-                <Longitude>6.504496</Longitude>
-                <Speed>0</Speed>
-                <Altitude>0</Altitude>
-                <AltitudeCons>0</AltitudeCons>
-                <Flytype>Fly-By</Flytype>
-                <Sp_Turn>Auto</Sp_Turn>
-            </Sid_Waypoint>
             <Sid_Waypoint ID="2">
                 <Name>3.5MHD128</Name>
                 <Type>Normal</Type>
@@ -536,17 +469,6 @@
         </Sid>
 
         <Sid Name="ABODU1N" Runways="31">
-            <Sid_Waypoint ID="1">
-                <Name>EDLN</Name>
-                <Type>Normal</Type>
-                <Latitude>51.2303555</Latitude>
-                <Longitude>6.504496</Longitude>
-                <Speed>0</Speed>
-                <Altitude>0</Altitude>
-                <AltitudeCons>0</AltitudeCons>
-                <Flytype>Fly-By</Flytype>
-                <Sp_Turn>Auto</Sp_Turn>
-            </Sid_Waypoint>
             <Sid_Waypoint ID="2">
                 <Name>5.2MHD,MHV308</Name>
                 <Type>Normal</Type>
@@ -582,17 +504,6 @@
             </Sid_Waypoint>
         </Sid>
         <Sid Name="SONEB2N" Runways="31">
-            <Sid_Waypoint ID="1">
-                <Name>EDLN</Name>
-                <Type>Normal</Type>
-                <Latitude>51.2303555</Latitude>
-                <Longitude>6.504496</Longitude>
-                <Speed>0</Speed>
-                <Altitude>0</Altitude>
-                <AltitudeCons>0</AltitudeCons>
-                <Flytype>Fly-By</Flytype>
-                <Sp_Turn>Auto</Sp_Turn>
-            </Sid_Waypoint>
             <Sid_Waypoint ID="2">
                 <Name>5.2MHD,MHV308</Name>
                 <Type>Normal</Type>
@@ -639,17 +550,6 @@
             </Sid_Waypoint>
         </Sid>
         <Sid Name="COL2N" Runways="31">
-            <Sid_Waypoint ID="1">
-                <Name>EDLN</Name>
-                <Type>Normal</Type>
-                <Latitude>51.2303555</Latitude>
-                <Longitude>6.504496</Longitude>
-                <Speed>0</Speed>
-                <Altitude>0</Altitude>
-                <AltitudeCons>0</AltitudeCons>
-                <Flytype>Fly-By</Flytype>
-                <Sp_Turn>Auto</Sp_Turn>
-            </Sid_Waypoint>
             <Sid_Waypoint ID="2">
                 <Name>5.2MHD,MHV308</Name>
                 <Type>Normal</Type>
@@ -731,17 +631,6 @@
 
         <!--  Sid GMH9Z   31 EDLN 5.2MHD308@EDLN 25NOR330@EDLN 39GMH266@EDLN 31GMH266@EDLN 18.6GMH266@EDLN 10GMH266@EDLN DEGOM@EDLN GMH@EDLN -->
         <Sid Name="GMH9Z" Runways="31">
-            <Sid_Waypoint ID="1">
-                <Name>EDLN</Name>
-                <Type>Normal</Type>
-                <Latitude>51.2303555</Latitude>
-                <Longitude>6.504496</Longitude>
-                <Speed>0</Speed>
-                <Altitude>0</Altitude>
-                <AltitudeCons>0</AltitudeCons>
-                <Flytype>Fly-By</Flytype>
-                <Sp_Turn>Auto</Sp_Turn>
-            </Sid_Waypoint>
             <Sid_Waypoint ID="2">
                 <Name>5.2MHD308</Name>
                 <Type>Normal</Type>
@@ -833,17 +722,6 @@
         </Sid>
         <!--  Sid KUMIK2N 31 EDLN 5.2MHD308@EDLN 25NOR330@EDLN 39GMH266@EDLN 31GMH266@EDLN 18.6GMH266@EDLN 10GMH266@EDLN DEGOM@EDLN KUMIK@EDLN -->
         <Sid Name="KUMIK2N" Runways="31">
-            <Sid_Waypoint ID="1">
-                <Name>EDLN</Name>
-                <Type>Normal</Type>
-                <Latitude>51.2303555</Latitude>
-                <Longitude>6.504496</Longitude>
-                <Speed>0</Speed>
-                <Altitude>0</Altitude>
-                <AltitudeCons>0</AltitudeCons>
-                <Flytype>Fly-By</Flytype>
-                <Sp_Turn>Auto</Sp_Turn>
-            </Sid_Waypoint>
             <Sid_Waypoint ID="2">
                 <Name>5.2MHD308</Name>
                 <Type>Normal</Type>
@@ -935,17 +813,6 @@
         </Sid>
         <!--  Sid NUDGO3N 31 EDLN 5.2MHD308@EDLN 25NOR330@EDLN 39GMH266@EDLN 31GMH266@EDLN 18.6GMH266@EDLN MAMIB@EDLN KULIX@EDLN NUDGO@EDLN -->
         <Sid Name="NUDGO3N" Runways="31">
-            <Sid_Waypoint ID="1">
-                <Name>EDLN</Name>
-                <Type>Normal</Type>
-                <Latitude>51.2303555</Latitude>
-                <Longitude>6.504496</Longitude>
-                <Speed>0</Speed>
-                <Altitude>0</Altitude>
-                <AltitudeCons>0</AltitudeCons>
-                <Flytype>Fly-By</Flytype>
-                <Sp_Turn>Auto</Sp_Turn>
-            </Sid_Waypoint>
             <Sid_Waypoint ID="2">
                 <Name>5.2MHD308</Name>
                 <Type>Normal</Type>
